@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) throws Exception {
          System.out.println("-----------------------------------------");
         System.out.println("Simple LNK PERSISTENT METHOD");
-        System.out.println("Made by @ on github.");
+        System.out.println("Made by @R3lva on github.");
         System.out.println("El acceso directo se creará en la misma carpeta del proyecto");
         System.out.println("-----------------------------------------");
 
@@ -51,3 +51,4 @@ public class App {
     
 
 }
+
